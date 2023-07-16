@@ -22,29 +22,29 @@ Table of Contents
 
 - Click `Connect with Spotify` button below to grant permission
 
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
+[<img src="/img/btn-spotify.png">](https://spotify-github-saurabharch.vercel.app/api/login)
 
 ## Example
 
 - Default theme
 
-![spotify-github-profile](/img/default.svg)
+![spotify-github](/img/default.svg)
 
 - Compact theme
 
-![spotify-github-profile](/img/compact.svg)
+![spotify-github](/img/compact.svg)
 
 - Natemoo-re theme
 
-![spotify-github-profile](/img/natemoo-re.svg)
+![spotify-github](/img/natemoo-re.svg)
 
 - Novatorem theme
 
-![spotify-github-profile](/img/novatorem.svg)
+![spotify-github](/img/novatorem.svg)
 
 - Karaoke theme
 
-![spotify-github-profile](/img/karaoke.svg)
+![spotify-github](/img/karaoke.svg)
 
 
 
@@ -102,16 +102,16 @@ Vercel CLI 20.1.2 dev (beta) — https://vercel.com/feedback
 ## How to Contribute
 
 - Develop locally and submit a pull request!
-- Submit newly encountered bugs to the [Issues](https://github.com/kittinan/spotify-github-profile/issues) page
-- Submit feature suggestions to the [Issues](https://github.com/kittinan/spotify-github-profile/issues) page, with the label [Feature Suggestion]
+- Submit newly encountered bugs to the [Issues](https://github.com/saurabharch/spotify-github/issues) page
+- Submit feature suggestions to the [Issues](https://github.com/saurabharch/spotify-github/issues) page, with the label [Feature Suggestion]
 
 ## Known Bugs
 
-[404/500 Error when playing local files](https://github.com/kittinan/spotify-github-profile/issues/19)
+[404/500 Error when playing local files](https://github.com/saurabharch/spotify-github/issues/19)
 
 ## Features in Progress
 
-[Cross-platform support (Pandora, Apple Music, etc.)](https://github.com/kittinan/spotify-github-profile/issues/37)
+[Cross-platform support (Pandora, Apple Music, etc.)](https://github.com/saurabharch/spotify-github/issues/37)
 
 ## Credit
 
